@@ -16,5 +16,3 @@ Then Start define it like this:
 const { Azkar } = require("azkars");
 ```
 <br>
-If you have a problem or have a suggestion
-Contact With Me Discord: Rama ﻿#9901
